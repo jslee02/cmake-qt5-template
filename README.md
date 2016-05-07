@@ -1,0 +1,1 @@
+# cmake-based-qt5-template
