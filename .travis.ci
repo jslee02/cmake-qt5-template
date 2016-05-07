@@ -4,6 +4,9 @@ sudo: required
 
 dist: trusty
 
+install:
+  - sudo apt-get -qq --yes install qt5-default
+
 script:
   - mkdir build && cd build
   - cmake ..
