@@ -1,4 +1,4 @@
-# A CMake based Qt 5 Project Template [![Build Status](https://travis-ci.org/jslee02/cmake-based-qt5-template.svg?branch=master)](https://travis-ci.org/jslee02/cmake-based-qt5-template)
+# A CMake based Qt 5 Project Template [![Build Status](https://travis-ci.org/jslee02/cmake-based-qt5-project-template.svg?branch=master)](https://travis-ci.org/jslee02/cmake-based-qt5-project-template)
 
 This is a CMake based Qt 5 project template for my edification inspired by [`euler0/mini-cmake-qt`](https://github.com/euler0/mini-cmake-qt).
 
