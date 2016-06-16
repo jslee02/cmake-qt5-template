@@ -16,6 +16,7 @@ set(CMAKE_AUTOUIC ON)
 
 # Find the QtWidgets library
 find_package(Qt5Widgets REQUIRED)
+# find_package(Qt5 REQUIRED COMPONENTS Core Widgets [...])
 
 # Tell CMake to create the example-project executable
 add_executable(${CMAKE_PROJECT_NAME} WIN32
